@@ -1,3 +1,4 @@
+![WeakDetect](main.jpg)
 # WeakDetect
 WeakDetect is a python script that aims to allow beginners in pentester/cyber security/script kiddies to install and get the basics of using it, I hope that many young people will be interested in digital security.
 

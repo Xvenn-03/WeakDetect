@@ -13,7 +13,7 @@ Havefunn.
 $ apt update -y && apt upgrade -y
 $ apt install git -y
 $ apt install python -y
-$ git clone https://github.com/Xvenn-03/WeakDetect
+$ git clone https://github.com/Xvenn-03/WeakDetect.git
 $ cd WeakDetect
 $ python3 WeakDetect.py
 ```
